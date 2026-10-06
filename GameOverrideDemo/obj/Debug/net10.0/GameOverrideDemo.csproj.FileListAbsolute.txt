@@ -1,0 +1,14 @@
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.exe
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.deps.json
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.runtimeconfig.json
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\bin\Debug\net10.0\GameOverrideDemo.pdb
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfoInputs.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.AssemblyInfo.cs
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.csproj.CoreCompileInputs.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\refint\GameOverrideDemo.dll
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.pdb
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\GameOverrideDemo.genruntimeconfig.cache
+D:\KELAS XI\SEMESTER 1\PGim\Tugas\GameOverrideDemo\GameOverrideDemo\obj\Debug\net10.0\ref\GameOverrideDemo.dll
